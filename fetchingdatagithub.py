@@ -23,7 +23,7 @@ def fetch_readme_content(username, repo, token):
 # Replace these values with your GitHub username, repository name, and personal access token
 username = "k-10vj"
 repo = "Codes"
-token = "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"
+token = "personal access token"
 
 readme_content = fetch_readme_content(username, repo, token)
 print(readme_content)
