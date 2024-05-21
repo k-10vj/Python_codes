@@ -2,7 +2,7 @@ import requests
 import csv
 
 # Authentication
-auth_token = '1000.4db2374efe09be67e647c2d62fd70be6.0497bed8b50258ab2e1e7a565fdd8d97'
+auth_token = 'Auth_token'
 headers = {
     'Authorization': 'Bearer ' + auth_token,
     'Content-Type': 'application/json'
